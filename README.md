@@ -1,4 +1,4 @@
-<h2 align="left">Salve 👋! Victor Pedro, 23 anos, DevOps Studant, graduado em Segurança da Informação/h2>
+<h2 align="left">Salve 👋! Victor Pedro, 23 anos, DevOps Studant, graduado em Segurança da Informação</h2>
 
 ###
 
