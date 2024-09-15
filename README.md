@@ -1,4 +1,5 @@
 <h2 align="left">Salve 👋! Victor Pedro, 23 anos, DevOps Studant, graduado em Segurança da Informação, Analista Pleno<br><br>Atualmente Desenvolvendo um Sistema de PDV completo utilizando 100% de IA</h2>
+<h3>Aos fins de semana eu crio coisas com IA</h3>
 
 ###
 
