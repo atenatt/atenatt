@@ -32,12 +32,6 @@
 
 ---
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=atenatt&show_icons=true&locale=en" alt="atenatt" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=atenatt&" alt="atenatt](https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=atenatt&theme=dark&locale=pt_BR" alt="GitHub Streak)" /></td>
-  </tr>
-</table>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=atenatt&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
 
 <img src="https://raw.githubusercontent.com/atenatt/atenatt/output/snake.svg" alt="Snake animation" />
