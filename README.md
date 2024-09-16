@@ -32,8 +32,11 @@
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atenatt&show_icons=true&locale=en" alt="atenatt" /></p>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=atenatt&theme=dark&locale=pt_BR" alt="GitHub Streak">
+  </a>
+</div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=atenatt&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
 
 <img src="https://raw.githubusercontent.com/atenatt/atenatt/output/snake.svg" alt="Snake animation" />
