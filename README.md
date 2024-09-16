@@ -1,8 +1,6 @@
 <h1 align="center">Salve 👋, me chamo Victor Pedro</h1>
 <h3 align="center">Estudante de Devops diretamente do Brasil / Entusiasta de IA</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atenatt" alt="atenatt" /></a> </p>
-
 - 🔭 Atualmente estou trabalhando em um [Sistema de PDV utilizando IA](https://github.com/atenatt/supercaixaai)
 
 - 🔭 Finais de semana eu brinco de desenvolver alguma coisa utilizando IA
