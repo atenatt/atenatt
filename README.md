@@ -1,7 +1,7 @@
 <h1 align="center">Salve 👋, me chamo Victor Pedro</h1>
 <h3 align="center">Estudante de Devops diretamente do Brasil / Entusiasta de IA</h3>
 
-- 🔭 Atualmente estou trabalhando em um [Sistema de PDV utilizando IA](https://github.com/atenatt/supercaixaai)
+- 🔭 Atualmente estou trabalhando em um [Sistema de PDV](https://github.com/atenatt/supercaixaai)
 
 - 🔭 Finais de semana eu brinco de desenvolver alguma coisa utilizando IA
 
