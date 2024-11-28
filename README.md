@@ -36,7 +36,7 @@
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=atenatt&theme=dark&locale=pt_BR" alt="GitHub Streak" style="max-width: 45%;">
   </a>
-  <a href="https://roadmap.sh">
+  <a href="https://roadmap.sh/u/victorboas">
     <img src="https://roadmap.sh/card/wide/6586bb7d5145316d25493d54?variant=dark" alt="roadmap.sh" style="max-width: 45%;">
   </a>
 </div>
