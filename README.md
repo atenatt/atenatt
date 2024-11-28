@@ -32,12 +32,12 @@
 
 ---
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=atenatt&theme=dark&locale=pt_BR" alt="GitHub Streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=atenatt&theme=dark&locale=pt_BR" alt="GitHub Streak" style="max-width: 45%;">
   </a>
   <a href="https://roadmap.sh">
-    <img src="https://roadmap.sh/card/tall/6586bb7d5145316d25493d54?variant=dark" alt="roadmap.sh"/>
+    <img src="https://roadmap.sh/card/tall/6586bb7d5145316d25493d54?variant=dark" alt="roadmap.sh" style="max-width: 45%;">
   </a>
 </div>
 
