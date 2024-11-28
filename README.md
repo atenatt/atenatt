@@ -36,12 +36,10 @@
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=atenatt&theme=dark&locale=pt_BR" alt="GitHub Streak">
   </a>
+  <a href="https://roadmap.sh">
+    <img src="https://roadmap.sh/card/tall/6586bb7d5145316d25493d54?variant=dark" alt="roadmap.sh"/>
+  </a>
 </div>
 
 
 <img src="https://raw.githubusercontent.com/atenatt/atenatt/output/snake.svg" alt="Snake animation" />
-
----
-
-<h3 align="center">Acompanhe meu roadmap de estudos:</h3>
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6586bb7d5145316d25493d54?variant=dark" alt="roadmap.sh"/></a>
