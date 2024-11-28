@@ -37,7 +37,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=atenatt&theme=dark&locale=pt_BR" alt="GitHub Streak" style="max-width: 45%;">
   </a>
   <a href="https://roadmap.sh">
-    <img src="https://roadmap.sh/card/wide/6586bb7d5145316d25493d54?variant=light" alt="roadmap.sh" style="max-width: 45%;">
+    <img src="https://roadmap.sh/card/wide/6586bb7d5145316d25493d54?variant=dark" alt="roadmap.sh" style="max-width: 45%;">
   </a>
 </div>
 
