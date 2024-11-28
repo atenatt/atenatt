@@ -40,3 +40,8 @@
 
 
 <img src="https://raw.githubusercontent.com/atenatt/atenatt/output/snake.svg" alt="Snake animation" />
+
+---
+
+<h3 align="center">Acompanhe meu roadmap de estudos:</h3>
+[![roadmap.sh](https://roadmap.sh/card/tall/6586bb7d5145316d25493d54?variant=dark)](https://roadmap.sh)
