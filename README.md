@@ -1,8 +1,6 @@
 <h1 align="center">Salve 👋, me chamo Victor Pedro</h1>
 <h3 align="center">Estudante de Devops diretamente do Brasil / Entusiasta de IA</h3>
 
--  **Devops e Golang**
-
 <div align="center">
   <a href="https://instagram.com/victor_boas25" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
