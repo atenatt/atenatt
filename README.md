@@ -1,11 +1,7 @@
 <h1 align="center">Salve 👋, me chamo Victor Pedro</h1>
 <h3 align="center">Estudante de Devops diretamente do Brasil / Entusiasta de IA</h3>
 
-- 🔭 Atualmente estou trabalhando em um [Sistema de PDV](https://github.com/atenatt/supercaixaai) e um [Gerenciador MGV7 com Telegram](https://github.com/atenatt/api-mgv-telegram)
-
-- 🔭 Finais de semana eu brinco de desenvolver alguma coisa utilizando IA
-
-- 🌱 Estudo sobre **Devops e Golang**
+-  **Devops e Golang**
 
 <div align="center">
   <a href="https://instagram.com/victor_boas25" target="_blank">
